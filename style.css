@@ -1,0 +1,49 @@
+body {
+    text-align: center;
+
+}
+
+.menu {
+    list-style:none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: blue;
+    position: sticky;
+}
+
+.parallax-inner {
+    display: table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+    background: linear-gradient( #4287f5 0%,#4bf542 100%);
+}
+
+.profile {
+    width: 100px;
+    height: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 75%;
+}
+.link{
+    color:crimson;
+    display: inline;
+    padding-top:5px;
+    padding-left:9px;
+    padding-right:9px;
+    padding-bottom: 5px;
+}
+#about{
+     padding:70px;
+    text-align:center:
+}
+.parallax-inner{
+    text-align: center;
+}
+#content-cycling{
+    background-color:antiquewhite
+}
